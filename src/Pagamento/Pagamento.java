@@ -1,6 +1,8 @@
 package Pagamento;
 
 public interface Pagamento {
-    void processarPagamento ( double value);
+    void ProcessarPagamento(double value);
+
+    void processarPagamento (double value);
 
 }
